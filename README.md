@@ -16,7 +16,7 @@
 
 [![lorcalhost's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=lorcalhost)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-alpha-rust.vercel.app/api/top-langs/?username=lorcalhost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorcalhost&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
