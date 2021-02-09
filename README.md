@@ -1,9 +1,9 @@
 ### Hi there, I'm Lorenzo - aka [lorcalhost][website] 👋
 [![Website](https://img.shields.io/website?label=lorcalhost.com&style=for-the-badge&url=https%3A%2F%2Florcalhost.com)](https://lorcalhost.com)
 
-## I'm an Undergraduate Student and Developer!!
-- :it: I study Comptuer Engineering at Polytechnic University of Turin
-- :cn: I study Information Technology Engineering at Shanghai Tongji University as part of an exchange program
+## I'm an Undergraduate Student and Developer!
+- 🎓 I study Comptuer Engineering at Polytechnic University of Turin :it:
+- ✈ I study Information Technology Engineering at Shanghai Tongji University as part of an exchange program :cn:
 - 👨🏻‍💻  I'm currently learning a bit of everything in the software development field
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I love automating tasks
