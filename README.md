@@ -14,7 +14,7 @@
 
 ### Stats:
 
-[![lorcalhost's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorcalhost)]
+![lorcalhost's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorcalhost)
 
 ### Connect with me:
 
