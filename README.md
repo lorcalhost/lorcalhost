@@ -3,7 +3,7 @@
 
 ## I'm an Undergraduate Student and Developer!
 - 🎓 I study Comptuer Engineering at Polytechnic University of Turin :it:
-- ✈ I study Information and Communications Technology Engineering at Shanghai Tongji University as part of an exchange program :cn:
+- ✈ I study Information and Communication Technology Engineering at Shanghai Tongji University as part of an exchange program :cn:
 - 👨🏻‍💻  I'm currently learning a bit of everything in the software development field
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I love automating tasks
