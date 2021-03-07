@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=lorcalhost&style=flat-square)
-
-### Hi there, I'm Lorenzo - aka [lorcalhost][website] 👋 
-[![Website](https://img.shields.io/website?label=lorcalhost.com&style=for-the-badge&url=https%3A%2F%2Florcalhost.com)](https://lorcalhost.com)
+<h2 align="center"><img src="https://komarev.com/ghpvc/?username=lorcalhost&style=flat-square" alt="lorcalhost" /></h2>
+<h1 align="center"> Hi there, I'm Lorenzo - aka <a href="https://lorcalhost.com">lorcalhost</a> 👋 </h1>
+<h2 align="center"><a href="https://lorcalhost.com"><img src="https://img.shields.io/website?label=lorcalhost.com&style=for-the-badge&url=https%3A%2F%2Florcalhost.com" alt="https://lorcalhost.com"/></a></h2>
+<link>
 
 ## I'm an Undergraduate Student and Developer!
 - 🎓 I study Computer Engineering at Polytechnic University of Turin :it:
@@ -10,20 +10,45 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and sharpen my ML skills
 - ⚡ I love automating tasks
 
-### Spotify Playing 🎧
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## Connect with me:
+
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/website.svg" alt="lorcalhost | Website" />][website] &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/linkedin.svg" alt="lorcalhost | Linkedin" />][linkedin] &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/youtube.svg" alt="lorcalhost | YouTube" />][youtube] &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/instagram.svg" alt="lorcalhost | Instagram" />][instagram] &nbsp;
+
+### Tools and Languages used in my projects:
+
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/python.svg" alt="Python" />](# "Python")&nbsp;
+[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/php.svg" alt="PHP" />](# "PHP") &nbsp;
+[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/mysql.svg" alt="MySQL" />](# "SQL") &nbsp;
+[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/mongodb.svg" alt="MongoDB" />](# "MongoDB") &nbsp;
+[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/java.svg" alt="Java" />](# "Java") &nbsp;
+[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/linux.svg" alt="Linux" />](# "Linux") &nbsp;
+[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/git.svg" alt="Git" />](# "Git") &nbsp;
+[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/visualstudio.svg" alt="Visual Studio"/>](# "Visual Studio") &nbsp;
+[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/flutter.svg" alt="Flutter" />](# "Flutter") &nbsp;
+[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/android.svg" alt="Android" />](# "Android OS") &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/html5.svg" alt="HTML5" />](# "HTML5") &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/css3.svg" alt="CSS 3" />](# "CSS3") &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/unity.svg" alt="Unity 3D" />](# "Unity 3D") &nbsp;
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## Spotify Playing 🎧
 
 [![Spotify](https://novatorem-nu-umber.vercel.app/api/spotify)](https://open.spotify.com/user/1169233185)
 
-### Stats:
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-[![lorcalhost's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=lorcalhost)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorcalhost&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+## Stats:
 
-### Connect with me:
+[![lorcalhost's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=lorcalhost&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorcalhost&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/webiste.svg" alt="lorcalhost | Website" />][website] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/youtube.svg" alt="lorcalhost | YouTube" />][youtube] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/linkedin.svg" alt="lorcalhost | Linkedin" />][linkedin] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/instagram.svg" alt="lorcalhost | Instagram" />][instagram] &nbsp;
+
+
 
 
 [website]: https://lorcalhost.com
