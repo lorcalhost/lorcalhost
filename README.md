@@ -34,6 +34,7 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/html5.svg" alt="HTML5" />](# "HTML5") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/css3.svg" alt="CSS 3" />](# "CSS3") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/unity.svg" alt="Unity 3D" />](# "Unity 3D") &nbsp;
+& many more..
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -43,9 +44,10 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## Stats:
+## Some of my stats:
 
-[![lorcalhost's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=lorcalhost&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorcalhost&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
+[![lorcalhost's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=lorcalhost&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorcalhost&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
