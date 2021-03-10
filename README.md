@@ -6,7 +6,7 @@
 ## I'm an Undergraduate Student and Developer!
 - 🎓 I study Computer Engineering at Polytechnic University of Turin :it:
 - ✈ I study Information and Communication Technology Engineering at Shanghai Tongji University as part of an exchange program :cn:
-- 👨🏻‍💻  I'm currently learning a bit of everything in the software development field
+- 👨🏻‍💻  I'm currently trying to get better at using scikit-learn
 - 🥅 2021 Goals: Contribute more to Open Source projects and sharpen my ML skills
 - ⚡ I love automating tasks
 
