@@ -3,12 +3,12 @@
 <h2 align="center"><a href="https://lorcalhost.com"><img src="https://img.shields.io/website?label=lorcalhost.com&style=for-the-badge&url=https%3A%2F%2Florcalhost.com" alt="https://lorcalhost.com"/></a></h2>
 <link>
 
-## I'm an Undergraduate Student and Developer!
+## I'm an Web3 Developer and Student!
+- 👨🏻‍💻  I'm currently trying to expand my knowledge in the zk field, learning circom and cairo
 - 🎓 I study Computer Engineering at Polytechnic University of Turin :it:
 - ✈ I study Information and Communication Technology Engineering at Shanghai Tongji University as part of an exchange program :cn:
-- 👨🏻‍💻  I'm currently trying to get better at using scikit-learn
-- 🥅 2021 Goals: Contribute more to Open Source projects and sharpen my ML skills
-- ⚡ I love automating tasks
+- 🥅 2022 Goals: Become a zk hero
+- ⚡ I love macroeconomics and decentralised applications
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -16,11 +16,12 @@
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/website.svg" alt="lorcalhost | Website" />][website] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/linkedin.svg" alt="lorcalhost | Linkedin" />][linkedin] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/youtube.svg" alt="lorcalhost | YouTube" />][youtube] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/instagram.svg" alt="lorcalhost | Instagram" />][instagram] &nbsp;
+
 
 ### Tools and Languages used in my projects:
 
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/solidity.svg" alt="Solidity" />](# "Solidity")&nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/rust.svg" alt="Rust" />](# "Rust")&nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/python.svg" alt="Python" />](# "Python")&nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/php.svg" alt="PHP" />](# "PHP") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/mysql.svg" alt="MySQL" />](# "SQL") &nbsp;
