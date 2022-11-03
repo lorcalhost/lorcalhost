@@ -39,12 +39,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## Spotify Playing 🎧
-
-[![Spotify](https://novatorem-nu-umber.vercel.app/api/spotify)](https://open.spotify.com/user/1169233185)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
 ## Some of my stats:
 
 [![lorcalhost's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=lorcalhost&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
@@ -55,6 +49,4 @@
 
 
 [website]: https://lorcalhost.com
-[youtube]: https://www.youtube.com/channel/UChxgTPA-zBJPfB7u7WeAE7w
-[instagram]: https://instagram.com/lollocll
 [linkedin]: https://www.linkedin.com/in/callegarilorenzo/
